@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699213792 source:c:\users\gonza\onedrive\documentos\segundo parcial labo\arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

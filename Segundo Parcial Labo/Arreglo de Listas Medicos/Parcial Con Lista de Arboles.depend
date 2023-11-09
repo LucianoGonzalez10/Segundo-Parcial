@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699465336 source:c:\users\gonza\onedrive\documentos\segundo parcial labo\parcial con lista de arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1699465640 source:c:\users\gonza\onedrive\documentos\segundo parcial labo\arreglo de listas medicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699475493 source:c:\users\gonza\onedrive\documentos\segundo parcial labo\parcial videojuegos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

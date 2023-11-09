@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699485627 source:c:\users\gonza\onedrive\documentos\segundo parcial labo\animales (arreglo de arboles)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
